@@ -1,4 +1,4 @@
-# hufi-sumo-robot
+# hufi-sumo-robotics
  
 Cuộc thi Robotics do Khoa CN Điện - Điện tử trường ĐH Công nghiệp Thực phẩm TP.HCM tổ chức
  
